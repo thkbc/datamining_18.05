@@ -1,5 +1,3 @@
-# datamining_18.05
-
 # World Happiness Report 2015 Analysis
 
 This project aims to analyze the World Happiness Report 2015 dataset, focusing on exploring the data, cleaning it, performing basic statistical analysis, visualizing key relationships, and selecting important features for further analysis.
